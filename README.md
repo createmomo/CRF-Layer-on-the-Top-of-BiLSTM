@@ -1,4 +1,4 @@
-# CRF-Layer-on-the-Top-of-BiLSTM
+# CRF-Layer-on-the-Top-of-BiLSTM (BiLSTM-CRF)
 The article series include:
 - **Introduction** - the general idea of the CRF layer on the top of BiLSTM for named entity recognition tasks
 - **A Detailed Example** -  a toy example to explain how CRF layer works step-by-step
