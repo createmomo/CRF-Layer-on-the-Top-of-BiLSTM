@@ -1,3 +1,6 @@
+# Wechat Public Account
+Please note that: The **Wechat Public Account** will be released this week! If you found this article is useful and would like to found more information about this series, please be free to subscribe the public account by your Wechat! **(2020-04-03)**
+
 # CRF-Layer-on-the-Top-of-BiLSTM (BiLSTM-CRF)
 The article series include:
 - **Introduction** - the general idea of the CRF layer on the top of BiLSTM for named entity recognition tasks
