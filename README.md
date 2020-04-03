@@ -17,5 +17,5 @@ Links:
 GitHub: https://github.com/createmomo/CRF-Layer-on-the-Top-of-BiLSTM
 
 # Wechat Public Account
-Please note that: The **Wechat Public Account** is avaiable now! If you found this article is useful and would like to found more information about this series, please be free to subscribe the public account by your Wechat! **(2020-04-03)**
+Please note that: The **Wechat Public Account** is avaiable now! If you found this article is useful and would like to found more information about this series, please subscribe to the public account by your Wechat! **(2020-04-03)**
 <img src="/qr_code.jpg" alt="QR Code" title="QR Code" width="393" height="127" />
