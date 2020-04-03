@@ -1,6 +1,3 @@
-# Wechat Public Account
-Please note that: The **Wechat Public Account** will be released this week! If you found this article is useful and would like to found more information about this series, please be free to subscribe the public account by your Wechat! **(2020-04-03)**
-
 # CRF-Layer-on-the-Top-of-BiLSTM (BiLSTM-CRF)
 The article series include:
 - **Introduction** - the general idea of the CRF layer on the top of BiLSTM for named entity recognition tasks
@@ -18,3 +15,7 @@ Links:
   * [CRF Layer on the Top of BiLSTM - 8](https://createmomo.github.io/2017/12/07/CRF-Layer-on-the-Top-of-BiLSTM-8/) Demo Code
 
 GitHub: https://github.com/createmomo/CRF-Layer-on-the-Top-of-BiLSTM
+
+# Wechat Public Account
+Please note that: The **Wechat Public Account** is avaiable now! If you found this article is useful and would like to found more information about this series, please be free to subscribe the public account by your Wechat! **(2020-04-03)**
+<img src="/qr_code.jpg" alt="QR Code" title="QR Code" width="393" height="127" />
